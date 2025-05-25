@@ -32,7 +32,7 @@
 
 ## Introduction
 
-This documentation provides a comprehensive guide for setting up monitoring and logging for Amazon Elastic Kubernetes Service (EKS) using industry-standard tools: Prometheus for metrics collection, Grafana for visualization, and the ELK stack (Elasticsearch, Logstash, Kibana) or Grafana Loki for log management.
+This project provides a comprehensive guide for setting up monitoring and logging for Amazon Elastic Kubernetes Service (EKS) using industry-standard tools: Prometheus for metrics collection, Grafana for visualization, and the ELK stack (Elasticsearch, Logstash, Kibana) or Grafana Loki for log management.
 
 Proper monitoring and logging are essential for maintaining healthy Kubernetes clusters, troubleshooting issues, and ensuring optimal performance. This setup will help you gain visibility into your EKS infrastructure, applications, and services.
 
