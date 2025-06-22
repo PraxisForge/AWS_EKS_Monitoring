@@ -38,6 +38,10 @@ Proper monitoring and logging are essential for maintaining healthy Kubernetes c
 
 ## Architecture Overview
 
+Below is a visual representation of the EKS monitoring pipeline:
+
+![EKS Monitoring Flow Diagram](https://github.com/PraxisForge/AWS_EKS_Monitoring/blob/main/Flowdiagram_01.png)
+
 The monitoring and logging architecture for EKS consists of:
 
 1. **Metrics Collection**: Prometheus collects metrics from your Kubernetes cluster.
